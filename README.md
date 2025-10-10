@@ -85,6 +85,6 @@ Free to use and tweak — just say who made it!
 
 If TTBuddyAI made your life easier, why not toss a coin to the coder? Every little bit helps me keep making silly-smart tools for you! 🙏💡
 
-[Donate to the author](paypal.me/alexander19612)
+[Donate to the author](https://www.paypal.com/paypalme/alexander19612)
 
 Even a tiny spark 🔥 keeps cool projects going!

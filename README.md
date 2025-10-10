@@ -1,5 +1,3 @@
-***
-
 # TTBuddyAI (Autohotkey)
 
 Meet TTBuddyAI — your kybrd sdck!  
@@ -90,5 +88,3 @@ If TTBuddyAI made your life easier, why not toss a coin to the coder? Every litt
 [Donate to the author](paypal.me/alexander19612)
 
 Even a tiny spark 🔥 keeps cool projects going!
-
-***

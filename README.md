@@ -2,6 +2,20 @@
 
 > **TL;DR:** Your keyboard sidekick. An AHK script that moves all critical editing controls to the top row (`Tab` + Numbers/Letters).
 
+## 👀 A concept picture (not part of the script)
+
+<p align="center">
+  <img src="docs/tab-lock.gif" alt="Concept animation: a Tab key held down, the top row turns into Copy, Paste, Cut, Select All" width="720">
+</p>
+
+<p align="center"><sub>A concept animation. It is not a recording of the script.</sub></p>
+
+The script itself is simple: you hold `Tab` with your own finger and tap a top-row key. `Tab` + `1` is Copy. You don't need a clamp, extra buttons or any hardware, just the `.ahk` file.
+
+The picture above is a different thing. While I was thinking about this idea I sketched a concept keyboard where a small mechanical clamp holds `Tab` down, so the top row stays switched to Copy, Paste, Cut and Select All. I made it because a table of hotkeys is dull to read, and it's easier to picture the idea when you can see the keys move.
+
+It's only a prototype drawing. Nothing like it ships with this repo, and there is no device you can buy or touch. If you want to build real key movements on the same idea, go for it, but that is a separate project.
+
 ## ☕ The "Why"
 Meet **TTBuddyAI**. This little AutoHotkey gizmo helps you copy, paste, and edit super fast using just the top row and `Tab`. No need for `Ctrl`, `Alt`, or `Shift` ever again.
 
@@ -67,3 +81,4 @@ Free to use and tweak — just say who made it!
 
 ---
 *Maintained by Aleksandrs M. Orrin.*
+

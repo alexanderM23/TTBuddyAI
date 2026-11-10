@@ -1,6 +1,6 @@
 # TTBuddyAI (AutoHotkey)
 
-> **TL;DR:** Your keyboard sidekick. An AHK script that moves all critical editing controls to the top row (`Tab` + Numbers/Letters).
+> Your keyboard sidekick. An AHK script that moves all critical editing controls to the top row (`Tab` + Numbers/Letters).
 
 ## 👀 A concept picture (not part of the script)
 
